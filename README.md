@@ -7,8 +7,9 @@ This is a simple weather forecast app built using HTML, CSS, and JavaScript. It 
 - Past & future 24-hour forecast
 - Refreshable weather updates
 
-## 🔗 Project URL
-https://hemareddyn.github.io/weather-app/
+## 🔗 Project URL  
+[https://hemareddyn.github.io/weather-app](https://hemareddyn.github.io/weather-app)
+
 
 ## 📂 GitHub Repository URL
 [https://github.com/Hemareddyn/weather-app](https://github.com/Hemareddyn/weather-app)
