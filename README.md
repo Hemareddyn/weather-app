@@ -14,5 +14,3 @@ This is a simple weather forecast app built using HTML, CSS, and JavaScript. It 
 ## 📂 GitHub Repository URL
 [https://github.com/Hemareddyn/weather-app](https://github.com/Hemareddyn/weather-app)
 
-## 🔧 How to Run Locally
-1. Clone the repo:
